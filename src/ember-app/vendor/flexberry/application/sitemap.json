@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "123",
+  "applicationTitle": "123",
+  "items": [
+    {
+      "link": null,
+      "menuName": "123",
+      "caption": "123",
+      "title": "123",
+      "children": [
+        {
+          "link": "i-i-s-123-номенклатура-l",
+          "menuName": null,
+          "caption": "Номенклатура",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123-заказ-пост-l",
+          "menuName": null,
+          "caption": "Заказ пост",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123-организации-l",
+          "menuName": null,
+          "caption": "Организации",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123-план-закупок-l",
+          "menuName": null,
+          "caption": "План закупок",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123-отчет-о-зак-l",
+          "menuName": null,
+          "caption": "Отчет о зак",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123-контрагенты-l",
+          "menuName": null,
+          "caption": "Контрагенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123-единицы-измер-l",
+          "menuName": null,
+          "caption": "Единицы измер",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123-склады-l",
+          "menuName": null,
+          "caption": "Склады",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
